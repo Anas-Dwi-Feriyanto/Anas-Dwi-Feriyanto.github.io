@@ -1,0 +1,8 @@
+body{background-color:lightblue;}
+
+h1{background-color:pink;color:black;}
+h2{background-color:cyan; color: white; text-align: center; border:2px green double;}
+p{background-color:teal; color: white; text-align: center; font-size: 12}
+li{color:white;background-color: blue gray}
+img{width:250px; height:200px; border-radius:360%; border:5px double #ddd; border-radius: 500%; border-color: black;}
+blockquote{background-color: brown;text-align: center}
